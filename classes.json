@@ -1,0 +1,8 @@
+{
+  "Monday": ["PE", "MT", "HEC", "MJP", "CE", "C", "P"],
+  "Tuesday": ["MB", "MJP", "C", "CJP", "EE", "G", "MT"],
+  "Wednesday": ["P", "CE", "C", "H", "EE", "MB", "EXC"],
+  "Thursday": ["EE", "G", "CJP", "P", "CE", "MT", "PE"],
+  "Friday": ["CE", "R", "HEC", "C", "P", "MJP", "MB"],
+  "Saturday": ["MB", "CJP", "MT", "G"]
+}
